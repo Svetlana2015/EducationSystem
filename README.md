@@ -1,16 +1,18 @@
 # Analyse des données du système éducatif
 
-*"L'éducation est la clé pour ouvrir les portes dorées de la liberté"
- George Washington*.
+### Contexte 
 
-L'analyse est basée sur un projet d’expansion à l’international de l’entreprise, qui propose des contenus de formation en ligne pour un public de niveau lycée et université. 
-Il faut réalise une première mission d’analyse exploratoire, pour déterminer si les données sur l’éducation de la banque mondiale permettent d’informer le projet d’expansion
-(https://datacatalog.worldbank.org/dataset/education-statistics).
+L'analyse est basée sur un projet d’expansion à l’international d'une entreprise qui propose des contenus de formation en ligne pour un public de niveau lycée et université. 
+Il faut réaliser une première mission d’analyse exploratoire pour déterminer si les données sur l’éducation de la banque mondiale permettent d'éclairer le projet d’expansion.
 
-**Objectifs:**
+### Objectifs
 
-* Quels sont les pays avec un fort potentiel de clients pour nos services ?
-* Pour chacun de ces pays, quelle sera l’évolution de ce potentiel de clients ?
-* Dans quels pays l'entreprise doit-elle opérer en priorité ?
+* Identifier les pays avec un fort potentiel de clients pour les services de l'entreprise ;
+* Anticiper pour chacun de ces pays l’évolution de ce potentiel de clients ;
+* Déterminer dans quels pays l'entreprise doit opérer en priorité.
+
+### Données 
+
+Voici les données utilisées : https://datacatalog.worldbank.org/dataset/education-statistics
 
 
